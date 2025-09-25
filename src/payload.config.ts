@@ -53,10 +53,8 @@ export default buildConfig({
   },
   cors: [
     'http://localhost:4000',
-    'https://avyadesign.vercel.app',
     'https://avya.club',
-    'http://avya.club',
-     'https://www.avya.club/'
+     'https://www.avya.club'
   ],
   collections: [
     Blog,
